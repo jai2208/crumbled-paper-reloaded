@@ -1,2 +1,1 @@
-# crumbled-paper-reloaded
-game
+# CP-2
